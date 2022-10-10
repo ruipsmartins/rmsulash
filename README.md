@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rmsulash
+- 👋 Hi, I’m Rui Martins
 - 👀 I’m interested in web dev 
-- 🌱 I’m currently learning javascript, html and css
+- 🌱 I’m currently learning how to be a fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
