@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rui Martins
-- 👀 I’m interested in web dev 
-- 🌱 I’m currently learning how to be a fullstack developer
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning how to be a full-stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
